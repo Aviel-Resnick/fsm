@@ -1,2 +1,2 @@
-# fsm
-Finite State Machine Latex Editor
+# Finite State Machine Editor
+
